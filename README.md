@@ -42,3 +42,17 @@
 
 
 Приятного использования!
+
+Фото использования
+
+![Снимок экрана_работы_прайсанализатора11](https://github.com/user-attachments/assets/df7ef341-edb9-4416-8bc8-f41fbd47ccfe)
+![Снимок экрана_работы_прайсанализатора10](https://github.com/user-attachments/assets/3fce5ce3-e738-42a7-bac5-5925bc7692c6)
+![Снимок экрана_работы_прайсанализатора9](https://github.com/user-attachments/assets/bca03e78-6297-48d7-bd32-9bc87d7b8020)
+![Снимок экрана_работы_прайсанализатора8](https://github.com/user-attachments/assets/2de05045-286f-4077-94c8-909d503d1cb8)
+![Снимок экрана_работы_прайсанализатора7](https://github.com/user-attachments/assets/94b5ecd4-448f-4796-a6a8-6e53b6cb8d01)
+![Снимок экрана_работы_прайсанализатора6](https://github.com/user-attachments/assets/03f5a250-ea42-42e5-8c6d-a3f0919a032b)
+![Снимок экрана_работы_прайсанализатора5](https://github.com/user-attachments/assets/ed759814-1657-45f5-a963-41efebc35d29)
+![Снимок экрана_работы_прайсанализатора4](https://github.com/user-attachments/assets/e04ce48e-8042-4b68-84f0-df3fe5bf7294)
+![Снимок экрана_работы_прайсанализатора3](https://github.com/user-attachments/assets/bcff988e-a26d-4174-90df-540d4e7ec693)
+![Снимок экрана_работы_прайсанализатора2](https://github.com/user-attachments/assets/d5804f97-f119-41f5-bf57-4226daf4b65a)
+![Снимок экрана_работы_прайсанализатора1](https://github.com/user-attachments/assets/7f713ab7-32c2-4618-b482-b8ee82acd6a7)
